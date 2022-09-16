@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m4a-chapter-extractor", "m4a-chapter-extractor\m4a-chapter-extractor.csproj", "{0F4F2C64-69C8-45ED-A9BD-F91936358CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F4F2C64-69C8-45ED-A9BD-F91936358CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4F2C64-69C8-45ED-A9BD-F91936358CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4F2C64-69C8-45ED-A9BD-F91936358CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4F2C64-69C8-45ED-A9BD-F91936358CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E3C1775-6FFF-4350-886F-6D75D9D5EC11}
+	EndGlobalSection
+EndGlobal
