@@ -1,8 +1,8 @@
 # m4a-chapter-extractor
-get chapter information from podcast files (in *.m4a format)
+get chapter information from The Economist Audio podcast (https://jingking.github.io/The-Economist-Audio-List/economistdownload.html) files (in *.m4a format)
 
 
-##Usage 
+## Usage 
 ````
 m4a-chapter-extractor.exe "yourpodcastfilenamehere.m4a" 
 ````
