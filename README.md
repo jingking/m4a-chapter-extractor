@@ -6,14 +6,15 @@ get chapter information from podcast files (in *.m4a format)
 ````
 m4a-chapter-extractor.exe "yourpodcastfilenamehere.m4a" 
 ````
-<br>
-will output all chapters in json string format
+
+Thsi will output all chapters inforamtion in json string format
+
 ```` 
-                                 *     chapters: [
-                                                  { title, startTime, endTime }, // the first chapter
-                                                  { title, startTime, endTime }, // the second chatper
-                                                  ...
-                                                ],
+chapters: [
+          { title, startTime, endTime }, // the first chapter
+          { title, startTime, endTime }, // the second chatper
+           ...
+          ],
 ````
 <img src="readme_usage_screenshot.png" width="600" />
 
